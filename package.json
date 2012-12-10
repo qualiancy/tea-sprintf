@@ -1,6 +1,6 @@
 {
     "name": "tea-sprintf"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Sprintf for node.js and the browser."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"

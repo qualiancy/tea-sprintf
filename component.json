@@ -1,7 +1,7 @@
 {
     "name": "tea-sprintf"
   , "repo": "qualiancy/tea-sprintf"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Sprintf for node.js and the browser."
   , "license": "MIT"
   , "keywords": [
